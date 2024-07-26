@@ -1,0 +1,1 @@
+Cần cân nhắc về bản quyền, bởi đây không phải là phiên bản chính thức của font Gotham. SVN-Gotham là font được một nhóm "việt hóa" - bổ sung các ký tự có dấu trong tiếng Việt. Trong giai đoạn đầu có thể triển khai, tuy nhiên cần sớm cân nhắc sử dụng một font có bản quyền (miễn phí hoặc trả phí) rõ ràng.
